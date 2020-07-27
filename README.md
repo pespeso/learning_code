@@ -7,5 +7,10 @@ To learn Python 3.X through simple and easy projects.
 
 # Challenges
 
-1. [Your first program](exercises/01/01-challenge.md)
-2. [A second one]()
+| number | link | Things you'll learn |
+|:------:|:------------------------------------------------------|--------------------------------------------------------------|
+| 01     | [Your first program](exercises/01/01-challenge.md)    | strings, dates, concatenation             |
+| 02     | [A second one]()                                      |                     |
+| 03       |      |                     |
+| 04     |              |           |
+
