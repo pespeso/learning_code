@@ -9,8 +9,8 @@ To learn Python 3.X through simple and easy projects.
 
 | number | link | Things you'll learn |
 |:------:|:------------------------------------------------------|--------------------------------------------------------------|
-| 01     | [Your first program](exercises/01/01-challenge.md)    | strings, dates, concatenation             |
-| 02     | [A second one]()                                      |                     |
-| 03       |      |                     |
+| 01     | [Concat this](exercises/01/01-challenge.md)           | strings, dates, concatenation                                        |
+| 02     | [For the numbers!](exercises/02/02-challenge.md)      | for loops, aux variables, keyboard input, execution time             |
+| 03     | [Third]()     |                     |
 | 04     |              |           |
 

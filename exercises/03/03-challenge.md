@@ -1,7 +1,5 @@
 # Title
 
-This is the structure for the challenges. Don't modify it.
-
 ## Description
 
 Here is the description
