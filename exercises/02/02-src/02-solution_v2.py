@@ -1,4 +1,4 @@
-from random import randrange
+import random
 import time
 
 initTime = time.time()
