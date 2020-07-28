@@ -8,9 +8,9 @@ To learn Python 3.X through simple and easy projects.
 # Challenges
 
 | number | link | Things you'll learn |
-|:------:|:------------------------------------------------------|--------------------------------------------------------------|
-| 01     | [Concat this](exercises/01/01-challenge.md)           | strings, dates, concatenation                                        |
-| 02     | [For the numbers!](exercises/02/02-challenge.md)      | for loops, aux variables, keyboard input, execution time             |
-| 03     | [Third]()     |                     |
-| 04     |              |           |
+|:------:|:-------------------------------------------------------|-------------------------------------------------------------|
+| 01     | [Concat this](challenges/01/01-challenge.md)           | strings, dates, concatenation                               |
+| 02     | [For the numbers!](challenges/02/02-challenge.md)      | for loops, aux variables, keyboard input, execution time    |
+| 03     | [Consonants and vowels](challenges/03/03-challenge.md) | files, urls, string operations, counting                    |
+| 04     | [4th]()             |           |
 
