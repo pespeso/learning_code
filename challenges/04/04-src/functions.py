@@ -5,7 +5,7 @@ from datetime import datetime
 # contemplo que los separadores de la fecha puedan ser "/" "-" o " "
 # ejemplo de fecha correcta 25-08-2020 12:59:20
 
-reg_ex = re.compile( '^([0-2][0-9]|3[0-1])(\/|-|\s)(0[1-9]|1[0-2])(\/|-|\s)(\d{4})\s()([0-1][0-9]|2[0-3]):([0-5][0-9]):([0-5][0-9])$' )
+reg_ex = re.compile( r'^([0-2][0-9]|3[0-1])(\/|-|\s)(0[1-9]|1[0-2])(\/|-|\s)(\d{4})\s()([0-1][0-9]|2[0-3]):([0-5][0-9]):([0-5][0-9])$' )
 
 def insert_date():
     '''Esta función solicita una fecha con un formato determinado y la valida por medio de expresiones regulares'''
